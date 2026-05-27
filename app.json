@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "d2dmobile",
-    "slug": "d2dmobile",
+    "name": "d2d",
+    "slug": "d2d",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "d2dmobile",
+    "scheme": "d2d",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
     "ios": {
